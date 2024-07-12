@@ -42,6 +42,13 @@ export default function Features() {
                     key={i}
                     className={styles.card_contents}
                 >
+            <h1>the man from tommorow</h1>
+            <h1>the man from tommorow</h1>
+            <h1>the man from tommorow</h1>
+            <h1>the man from tommorow</h1>
+            <h1>the man from tommorow</h1>
+            <h1>the man from tommorow</h1>
+
                     <div className={styles.card_Img}>
                         <Image 
                         src={item.icon}
