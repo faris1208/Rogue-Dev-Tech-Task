@@ -7,6 +7,12 @@ export default function Hero() {
     <div className={styles.hero_container}>
         <NavBar />
         <div className={styles.rogue_image}>
+          <div>
+            <h1>the man from tommorow</h1>
+            <h1>the man from tommorow</h1>
+            <h1>the man from tommorow</h1>
+            <h1>the man from tommorow</h1>
+          </div>
         <section className={styles.Unveil_wrapper}>
           <h2>the process of getting invlve</h2>
             <h5>Let’s help you</h5>
