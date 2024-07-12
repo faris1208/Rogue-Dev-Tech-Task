@@ -25,30 +25,12 @@ export default function Features() {
         <section className={styles.card_container}>
             <h2>WHAT WE OFFER</h2>
             <p>Transforming Your Ideas into Innovative Software Solutions</p>
-            <div>
-            <h1>the man from tommorow</h1>
-            <h1>the man from tommorow</h1>
-            <h1>the man from tommorow</h1>
-            <h1>the man from tommorow</h1>
-          </div>
             <div className={styles.card_wrapper}>
-            <div>
-            <h1>the man from tommorow</h1>
-            <h1>the man from tommorow</h1>
-            <h1>the man from tommorow</h1>
-          </div>
                 {development.map((item, i) => (
                 <div
                     key={i}
                     className={styles.card_contents}
                 >
-            <h1>the man from tommorow</h1>
-            <h1>the man from tommorow</h1>
-            <h1>the man from tommorow</h1>
-            <h1>the man from tommorow</h1>
-            <h1>the man from tommorow</h1>
-            <h1>the man from tommorow</h1>
-
                     <div className={styles.card_Img}>
                         <Image 
                         src={item.icon}
@@ -63,8 +45,6 @@ export default function Features() {
                         <li>{item.flat}</li>
                     </ul>
                     <div>
-            <h1>the man from tommorow</h1>
-            <h1>the man from tommorow</h1>
           </div>
                 </div>
                 ))}
