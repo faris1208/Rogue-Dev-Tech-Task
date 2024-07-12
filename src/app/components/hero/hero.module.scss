@@ -29,12 +29,13 @@
         justify-content: center;
         align-items: center;
         
-        section{
+        .Unveil_wrapper{
             display: flex;
             flex-direction: column;
             justify-content: center;
             align-items: center;
             gap: 15px;
+            border: 2px solid red;
 
             h5{
                 font-family: 'ModernAntiqua';
