@@ -8,6 +8,7 @@ export default function Hero() {
         <NavBar />
         <div className={styles.rogue_image}>
         <section className={styles.Unveil_wrapper}>
+          <h2>the process of getting invlve</h2>
             <h5>Let’s help you</h5>
             <h2>Unveil <span>efficiency,</span> elevate <span>productivity.</span> Experience Rogue’s design today</h2>
             <p>Leading digital agency with solid design and development expertise</p>
