@@ -14,7 +14,6 @@
   margin: 0 auto;
   z-index: 9999;
   transition: .3s ease-in-out;
-  border: 2px solid red;
 
   @include responsive("mobile"){
     .logo_image{

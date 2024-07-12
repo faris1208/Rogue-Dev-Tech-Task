@@ -23,10 +23,10 @@
   font-style: normal;
 }
 
-* {
+*{
   box-sizing: border-box;
-  padding: 0;
   margin: 0;
+  padding: 0;
 }
 
 html,
@@ -37,7 +37,6 @@ body {
   margin: 0 auto;
   font-family: 'Poppins', Poppins;
   font-family: 'ModernAntiqua';
-  border: 2px solid red;
   // font-family: 'Roboto', Roboto;
 }
 
